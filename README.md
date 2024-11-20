@@ -27,7 +27,7 @@ I'm a passionate Computer Science student at RV College of Engineering, currentl
 
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavproddappanavar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavPRoddappanavar&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavproddappanavar&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
