@@ -1,6 +1,6 @@
 # Hi there! I'm Vaibhav P Roddappanavar 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E88E5&width=435&lines=Beginner+MERN+Stack+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E88E5&width=435&lines=MERN+Stack+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I'm a passionate Computer Science student at RV College of Engineering, currently pursuing my B.E. My journey is driven by an insatiable curiosity for technology and a commitment to creating innovative solutions.
